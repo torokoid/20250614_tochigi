@@ -167,7 +167,7 @@ p.note { display: none; }
 <h2><span class="yellow">いつもの松葉菊も元気！</span></h2>
 <a href="20250614_011.JPG" target="_blank"><img src="20250614_011.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">公民館の花壇は植え替え</span></h2>
+<h2><span class="yellow">公民館の花壇は植え替え中</span></h2>
 <a href="20250614_012.JPG" target="_blank"><img src="20250614_012.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">可愛らしいお花が一輪だけポツリ</span></h2>
